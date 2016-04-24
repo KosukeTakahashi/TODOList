@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TODOList</string>
+    <string name="action_settings">情報</string>
+    <string name="deleted">完了</string>
+    <string name="undo">UNDO</string>
+    <string name="addTODO">TODOの追加</string>
+    <string name="editTODO">TODOの編集</string>
+    <string name="title">タイトル</string>
+    <string name="subscription">説明</string>
+    <string name="edit">編集</string>
+    <string name="title_activity_add_todo">TODOの追加</string>
+    <string name="title_activity_edit_todo">TODOの編集</string>
+    <string name="release">リリースノート</string>
+    <string name="releases">2016/04/24 ver1.0.0</string>
+    <string name="developer">開発者：Kosuke Takahashi</string>
+    <string name="title_activity_release">Release</string>
+</resources>
